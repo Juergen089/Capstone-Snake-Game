@@ -1,0 +1,3 @@
+/Users/Tiger/C++Projekte/Capstone_Snake/build/CMakeFiles/SnakeGame.dir
+/Users/Tiger/C++Projekte/Capstone_Snake/build/CMakeFiles/edit_cache.dir
+/Users/Tiger/C++Projekte/Capstone_Snake/build/CMakeFiles/rebuild_cache.dir
